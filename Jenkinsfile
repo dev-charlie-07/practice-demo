@@ -1,7 +1,7 @@
 pipeline {
   environment {
-    registry = "interviewdot/cicd-demo"
-    registryCredential = 'docker-hub-credentials'
+    registry = "gajendhiran/studentjava"
+    registryCredential = 'Docker hub'
     dockerImage = ''
   }
   agent any
