@@ -1,0 +1,5 @@
+com\example\SpringBootRequestResponseLoggingFilter\model\Student.class
+com\example\SpringBootRequestResponseLoggingFilter\controller\StudentController.class
+com\example\SpringBootRequestResponseLoggingFilter\filter\LoggingFilter.class
+com\example\SpringBootRequestResponseLoggingFilter\SpringBootRequestResponseLoggingFilterApplication.class
+com\example\SpringBootRequestResponseLoggingFilter\service\StudentService.class
